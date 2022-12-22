@@ -1,7 +1,7 @@
 {
-  "name": "codebase-frontend",
+  "name": "tefa-chapter-2",
   "version": "0.2.0",
-  "description": "Source code of Front End's codebase",
+  "description": "Source code of Tefa Chapter 2",
   "engines": {
     "npm": ">=3"
   },
